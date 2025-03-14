@@ -14,8 +14,8 @@ Hi! I'm Dilmurod, a backend developer passionate about coding and learning new t
 ---
 
 ## 📂 Projects  
-🔹 [Project 1 - E-commerce Website](https://github.com/yourproject)  
-🔹 [Project 2 - REST API with Laravel](https://github.com/yourproject)  
+🔹 [Project 1 - E-commerce Website](https://github.com/)  
+🔹 [Project 2 - REST API with Laravel](https://github.com/)  
 
 ---
 
@@ -25,5 +25,5 @@ Hi! I'm Dilmurod, a backend developer passionate about coding and learning new t
 ---
 
 ## 📬 Contact Me  
-📧 Email: your-email@example.com  
-💼 LinkedIn: [linkedin.com/in/dilmurod](https://linkedin.com/in/dilmurod)  
+📧 Email: umarovdimok@gmail.com  
+💼 LinkedIn: [linkedin.com/in/DilmurodUmarov](https://linkedin.com/in/DilmurodUmarov)  
