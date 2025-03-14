@@ -1,5 +1,14 @@
-# 🌟 Dilmurod Umarov  
-🔹 Backend Developer | PHP | Laravel | MySQL  
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400px">
+</p>
+
+# Hi, I'm Dilmurod! 👋
+
+I'm a **backend developer** who loves coding, learning new technologies, and building amazing projects.  
+🚀 I specialize in **PHP, Laravel, MySQL**, and I always strive to improve myself.  
+
+---
+
 
 Hi! I'm Dilmurod, a backend developer passionate about coding and learning new technologies. Here, you'll find my latest projects, coding challenges, and open-source contributions.  
 
